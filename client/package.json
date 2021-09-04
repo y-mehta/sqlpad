@@ -3,7 +3,7 @@
   "version": "6.8.0",
   "private": true,
   "dependencies": {
-    "@reach/dialog": "^0.15.3",
+    "@reach/dialog": "^0.16.0",
     "@reach/menu-button": "^0.15.3",
     "@reach/tooltip": "^0.15.3",
     "@types/humanize-duration": "^3.25.1",
