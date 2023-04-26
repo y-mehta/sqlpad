@@ -43,7 +43,7 @@
     "@google-cloud/bigquery": "^5.8.0",
     "@rickbergfalk/sequelize": "^6.6.5",
     "athena-express": "^7.1.0",
-    "aws-sdk": "^2.978.0",
+    "aws-sdk": "^2.1354.0",
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.19.0",
     "cassandra-driver": "^4.6.3",
