@@ -40,7 +40,7 @@
     "lint": "eslint \"**/*.js\""
   },
   "dependencies": {
-    "@google-cloud/bigquery": "^5.8.0",
+    "@google-cloud/bigquery": "^7.2.0",
     "@rickbergfalk/sequelize": "^6.6.5",
     "athena-express": "^7.1.0",
     "aws-sdk": "^2.978.0",
