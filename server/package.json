@@ -97,7 +97,7 @@
     "sequelize": "npm:@rickbergfalk/sequelize@^6.6.5",
     "serve-favicon": "^2.5.0",
     "session-file-store": "^1.5.0",
-    "snowflake-sdk": "^1.6.2",
+    "snowflake-sdk": "^1.12.0",
     "socksjs": "^0.5.0",
     "sql-formatter": "^2.3.3",
     "sql-limiter": "^2.6.0",
