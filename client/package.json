@@ -27,7 +27,7 @@
     "humanize-duration": "^3.27.0",
     "keymaster": "^1.6.2",
     "localforage": "^1.10.0",
-    "lodash": "^4.17.20",
+    "lodash": "^4.17.23",
     "match-sorter": "^6.2.0",
     "mdi-react": "^7.4.0",
     "mitt": "^2.1.0",
